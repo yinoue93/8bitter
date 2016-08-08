@@ -33,4 +33,18 @@ optional arguments:
 
 ## Samples:
 
-<img src="12.jpg" width="400">
+<img src="imgs/12.jpg" width="400">
+<img src="gitImg/none.jpg" width="400">
+<img src="gitImg/outline.jpg" width="400">
+<img src="gitImg/bright.jpg" width="400">
+
+<img src="imgs/4.jpg" width="400">
+<img src="gitImg/25.jpg" width="400">
+<img src="gitImg/50.jpg" width="400">
+<img src="gitImg/200.jpg" width="400">
+
+<img src="imgs/150.png" width="400">
+<img src="gitImg/150.png" width="400">
+
+<img src="imgs/001.png" width="400">
+<img src="gitImg/001.png" width="400">
