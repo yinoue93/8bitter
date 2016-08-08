@@ -324,4 +324,4 @@ if __name__ == '__main__':
     #bit_converter('imgs/12.jpg',args)
 
     # delete the temp directory
-    shutil.rmtree(u'tmp')
+    #shutil.rmtree(u'tmp')
